@@ -16,11 +16,11 @@
 
 ### WINDOWS HOST:
 
->>> C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" setextradata NameOfVM VBoxInternal/Devices/usb-xhci/0/Config/ChipType uPD720201
+> C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" setextradata NameOfVM VBoxInternal/Devices/usb-xhci/0/Config/ChipType uPD720201
 
 ### LINUX HOST:
 
->>> vboxmanage setextradata NameOfVM VBoxInternal/Devices/usb-xhci/0/Config/ChipType uPD720201
+> vboxmanage setextradata NameOfVM VBoxInternal/Devices/usb-xhci/0/Config/ChipType uPD720201
 
 * run guest
 
